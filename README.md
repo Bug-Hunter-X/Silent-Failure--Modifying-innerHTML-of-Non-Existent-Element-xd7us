@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML involving the use of innerHTML.  The code attempts to modify the innerHTML of an element that doesn't exist.  This results in no visible error, making it a tricky bug to identify. The solution shows how to avoid this type of error.
